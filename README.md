@@ -1,7 +1,11 @@
 # 💫 About Me
-🔭 I'm currently working on **klaro-tech**
-🤝 I'm looking for help with **mt5-terminal-cli**
-🌱 I'm currently learning **vibe coding**
+
+🔭 I'm currently working on **balerion-fund** 
+
+🤝 I'm looking for help with **klaro-tech**
+
+🌱 I'm currently learning **Rust**
+
 💬 Ask me about **algotrading**
 
 ## 🌐 Socials
