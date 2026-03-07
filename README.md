@@ -42,14 +42,4 @@
 
 ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white)
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khzrimrn&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khzrimrn&layout=compact&theme=dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=khzrimrn&theme=dark&hide_border=true)
-
-</div>
