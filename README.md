@@ -1,8 +1,6 @@
 # 💫 About Me
 
-🔭 I'm currently working on **balerion-fund** 
-
-🤝 I'm looking for help with **klaro-tech**
+🔭 I'm currently working on **backtestingfx** 
 
 🌱 I'm currently learning **Rust**
 
