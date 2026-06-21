@@ -4,7 +4,7 @@ Software Developer. Building a [Rust backtesting engine for FX markets](https://
 
 ---
 
-**Languages** — Rust · Python · TypeScript
+<img src="https://skillicons.dev/icons?i=rust,python,ts" />
 
 ---
 
