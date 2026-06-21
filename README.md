@@ -1,10 +1,6 @@
 # Khizar Imran
 
-Software developer based in Newcastle, UK. I build full-stack products, integrate AI/ML systems, and design cloud infrastructure on AWS.
-
-Currently working at **MGroup Energy** and building **[Klaro-tech](https://klaro-tech.com)** — a SaaS platform for algorithmic traders.
-
-Background in biology and data science. I run a quantitative finance lab for data pipelines, strategy testing, and market execution, and a homelab for hosting, ML work, and infrastructure experiments. Learning Rust.
+Software Developer. Building a [Rust backtesting engine for FX markets](https://github.com/KhizarImran/backtestingfx).
 
 ---
 
