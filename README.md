@@ -1,6 +1,6 @@
 # Khizar Imran
 
-Software Developer. Building a [Rust backtesting engine for FX markets](https://github.com/KhizarImran/backtestingfx).
+Software Developer. Building a [Rust backtesting engine for FX markets](https://github.com/KhizarImran/backtestingfx). I use Arch btw
 
 ---
 
